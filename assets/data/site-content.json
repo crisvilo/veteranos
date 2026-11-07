@@ -1,0 +1,57 @@
+{
+  "organization": {
+    "name": "Asociación de Veteranos de la Fuerza Pública de Buenavista Córdoba",
+    "tagline": "Honor, servicio y compromiso con nuestra comunidad.",
+    "intro": "Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba.",
+    "description": "La Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba, reúne una identidad construida alrededor del servicio, la experiencia y el compromiso con la comunidad.",
+    "history": "La asociación representa un espacio de reconocimiento y encuentro para veteranos de la fuerza pública en Buenavista, Córdoba.",
+    "objectives": "Promover la unión, el reconocimiento y la participación de los veteranos de la fuerza pública, de acuerdo con los objetivos institucionales aprobados por la asociación.",
+    "mission": "Somos una organización sin fines de lucro comprometida con la dignificación, el bienestar y la reincorporación social y económica de los veteranos y sus familias, transformando su vocación de servicio en liderazgo comunitario y productivo. Promovemos el desarrollo rural sostenible, la soberanía alimentaria y el cooperativismo agrario, consolidando proyectos productivos del campo que contribuyen activamente a la construcción de paz, el tejido social y la estabilidad del territorio.",
+    "vision": "Para el año 2032, la Asociación Campesina de Veteranos será un referente nacional de asociatividad, paz territorial y desarrollo rural sostenible. Seremos una organización consolidada, con proyectos agropecuarios altamente competitivos, tecnificados y posicionados en los mercados locales y nacionales. Lograremos el reconocimiento integral de nuestros veteranos y sus familias como líderes de la transformación social, económica y ambiental del campo, garantizando su bienestar, arraigo a la tierra y una calidad de vida digna.",
+    "principles": [
+      {
+        "title": "Compromiso con la legalidad",
+        "description": "Orientar todas las actuaciones de la asociación bajo el marco jurídico vigente, especialmente en lo relacionado con la formalización de tierras, la Ley del Veterano y los requisitos de las Entidades Sin Ánimo de Lucro (ESAL)."
+      },
+      {
+        "title": "Cooperación e interinstitucionalidad",
+        "description": "Promover alianzas estratégicas y redes de trabajo con otras organizaciones campesinas, empresas del sector privado y entidades públicas, como la Agencia de Desarrollo Rural, la Agencia de Renovación del Territorio y la DIVRI, para el beneficio mutuo."
+      },
+      {
+        "title": "Desarrollo rural sostenible",
+        "description": "Adoptar buenas prácticas agrícolas (BPA) y ganaderas que protejan la biodiversidad, el suelo y las fuentes hídricas, asegurando la productividad a largo plazo sin destruir el entorno."
+      }
+    ],
+    "values": [
+      {
+        "title": "Solidaridad rural",
+        "description": "Priorizar el bienestar colectivo a través del trabajo en equipo, brindando un respaldo prioritario a los veteranos con discapacidades, adultos mayores, viudas y huérfanos del conflicto."
+      },
+      {
+        "title": "Arraigo y sentido de pertenencia",
+        "description": "Amar, defender y tecnificar el territorio rural, entendiendo que garantizar la seguridad alimentaria y cultivar la tierra es la nueva forma de servir a la patria en la vida civil."
+      },
+      {
+        "title": "Equidad y humildad",
+        "description": "Promover el respeto y la igualdad de condiciones para todos los asociados por igual, eliminando las distinciones de los antiguos rangos militares para trabajar como pares en el campo."
+      },
+      {
+        "title": "Responsabilidad ambiental",
+        "description": "Respetar y proteger la biodiversidad, las fuentes de agua y los suelos, adoptando prácticas agrícolas sostenibles que preserven el entorno para las futuras generaciones campesinas."
+      }
+    ],
+    "email": "",
+    "socials": {
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "tiktok": ""
+    }
+  },
+  "contact": {
+    "organizationName": "Asociación de Veteranos de la Fuerza Pública de Buenavista Córdoba",
+    "nit": "901885276-1",
+    "legalRepresentative": "César Gregorio Martinez Llorente",
+    "privacyNotice": "Esta sección presenta los datos institucionales y del representante legal. No se recopilan datos mediante formularios."
+  }
+}

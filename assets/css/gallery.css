@@ -1,0 +1,62 @@
+.gallery-section { background: var(--surface-alt); }
+.gallery-heading { display: flex; align-items: end; justify-content: space-between; gap: 35px; margin-bottom: 36px; }
+.gallery-heading .section-heading { flex-shrink: 0; }
+.gallery-heading h2 { margin-bottom: 0; }
+.gallery-description { max-width: 360px; margin-bottom: 6px; font-size: .88rem; }
+.gallery-tools { display: grid; grid-template-columns: minmax(0, 1fr) 230px; gap: 12px; margin-bottom: 18px; }
+.search-field, .filter-field { display: flex; align-items: center; gap: 10px; min-height: 48px; padding: 0 14px; border: 1px solid var(--border); background: var(--surface); color: var(--muted); }
+.search-field > span { font-size: 1.4rem; }
+.search-field input, .filter-field select { width: 100%; min-width: 0; border: 0; outline: 0; background: transparent; color: var(--text); font-size: .82rem; }
+.filter-field select { cursor: pointer; }
+.gallery-stage { position: relative; min-height: 320px; aspect-ratio: 1.65 / 1; overflow: hidden; background: var(--military); color: var(--warm-white); }
+.gallery-stage > img { width: 100%; height: 100%; position: absolute; inset: 0; object-fit: cover; }
+.stage-shade { position: absolute; inset: 0; pointer-events: none; background: linear-gradient(180deg, rgba(0,0,0,.34), transparent 35%, rgba(0,0,0,.8)); }
+.stage-top { position: absolute; top: 22px; right: 24px; left: 24px; display: flex; justify-content: space-between; gap: 20px; color: rgba(245,243,236,.8); font-size: .64rem; font-weight: 800; letter-spacing: .13em; }
+.stage-counter { color: var(--sand); }
+.stage-arrow { position: absolute; top: 50%; z-index: 2; display: grid; place-items: center; width: 44px; height: 44px; transform: translateY(-50%); border: 1px solid rgba(245,243,236,.45); background: rgba(17,19,15,.4); color: #fff; font-size: 1.3rem; cursor: pointer; transition: background .2s; }
+.stage-arrow:hover { background: var(--gold); color: #111; }
+.stage-prev { left: 20px; } .stage-next { right: 20px; }
+.stage-caption { position: absolute; right: 190px; bottom: 28px; left: 30px; }
+.caption-category { display: inline-block; margin-bottom: 8px; color: var(--sand); font-size: .65rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+.stage-caption h3 { margin-bottom: 8px; font-size: clamp(1.4rem, 3vw, 2.35rem); letter-spacing: -.03em; }
+.stage-caption p { margin-bottom: 0; color: rgba(245,243,236,.75); font-size: .82rem; }
+.fullscreen-button { position: absolute; right: 24px; bottom: 28px; padding: 10px 13px; border: 1px solid rgba(245,243,236,.55); background: rgba(17,19,15,.4); color: #fff; cursor: pointer; font-size: .75rem; }
+.fullscreen-button:hover { background: var(--gold); color: #111; }
+.gallery-controls { padding: 18px 20px 20px; background: var(--surface); border: 1px solid var(--border); border-top: 0; }
+.carousel-actions { display: flex; align-items: center; gap: 14px; margin-bottom: 17px; }
+.small-control { display: inline-flex; align-items: center; gap: 8px; padding: 6px 0; border: 0; background: transparent; color: var(--text); cursor: pointer; font-size: .76rem; font-weight: 750; }
+.control-divider { width: 1px; height: 17px; background: var(--border); }
+.gallery-result-count { color: var(--muted); font-size: .75rem; }
+.thumbnail-rail { display: flex; gap: 8px; overflow-x: auto; padding: 2px 2px 8px; overscroll-behavior-x: contain; scrollbar-color: var(--olive) var(--surface-alt); scrollbar-width: thin; }
+.thumbnail { position: relative; flex: 0 0 96px; height: 62px; padding: 0; border: 2px solid transparent; background: var(--surface-alt); cursor: pointer; overflow: hidden; }
+.thumbnail img { width: 100%; height: 100%; object-fit: cover; }
+.thumbnail span { position: absolute; right: 3px; bottom: 2px; padding: 1px 4px; background: rgba(17,19,15,.75); color: white; font-size: .58rem; }
+.thumbnail[aria-current="true"] { border-color: var(--gold); }
+.gallery-empty { padding: 22px; background: var(--surface); color: var(--muted); }
+.gallery-empty button { margin-left: 8px; border: 0; background: transparent; color: var(--olive); text-decoration: underline; cursor: pointer; font-weight: 800; }
+:root[data-theme="dark"] .gallery-empty button { color: var(--sand); }
+.gallery-footnote { margin: 16px 0 0; font-size: .72rem; }
+.image-viewer { position: fixed; inset: 0; width: 100%; height: 100%; max-width: none; max-height: none; padding: 20px; border: 0; background: rgba(10,12,9,.97); color: #f5f3ec; }
+.image-viewer::backdrop { background: rgba(0,0,0,.9); }
+.image-viewer[open] { display: grid; grid-template-rows: auto 1fr; }
+.viewer-toolbar { display: flex; justify-content: space-between; align-items: center; color: var(--sand); font-size: .75rem; letter-spacing: .12em; }
+.viewer-close { width: 44px; height: 44px; border: 1px solid rgba(245,243,236,.35); background: transparent; color: #fff; font-size: 2rem; cursor: pointer; }
+.image-viewer figure { display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 0; margin: 10px 60px 0; }
+.image-viewer figure img { max-width: 100%; max-height: calc(100vh - 160px); object-fit: contain; }
+.image-viewer figcaption { display: flex; flex-wrap: wrap; gap: 10px 20px; justify-content: center; margin-top: 14px; color: rgba(245,243,236,.72); text-align: center; font-size: .8rem; }
+.image-viewer figcaption strong { color: #fff; }
+.viewer-arrow { position: absolute; top: 50%; z-index: 2; display: grid; place-items: center; width: 44px; height: 44px; border: 1px solid rgba(245,243,236,.4); background: rgba(255,255,255,.04); color: #fff; font-size: 1.3rem; cursor: pointer; }
+.viewer-prev { left: 18px; } .viewer-next { right: 18px; }
+@media (max-width: 700px) {
+  .gallery-heading { display: block; }
+  .gallery-description { margin-top: 18px; }
+  .gallery-tools { grid-template-columns: 1fr; }
+  .gallery-stage { min-height: 430px; aspect-ratio: auto; }
+  .stage-caption { right: 20px; bottom: 82px; left: 20px; }
+  .fullscreen-button { right: 20px; bottom: 20px; }
+  .stage-prev { left: 12px; } .stage-next { right: 12px; }
+  .stage-arrow { width: 38px; height: 38px; }
+  .image-viewer { padding: 12px; }
+  .image-viewer figure { margin-inline: 0; }
+  .viewer-arrow { top: auto; bottom: 18px; }
+}

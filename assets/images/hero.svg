@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#283321"/><stop offset="1" stop-color="#11130f"/></linearGradient><pattern id="lines" width="90" height="90" patternUnits="userSpaceOnUse"><path d="M0 90L90 0" stroke="#d8c7a3" stroke-opacity=".12"/></pattern></defs>
+<rect width="1600" height="1000" fill="url(#bg)"/><rect width="1600" height="1000" fill="url(#lines)"/>
+<circle cx="1120" cy="430" r="300" fill="none" stroke="#c5a253" stroke-opacity=".28" stroke-width="2"/><circle cx="1120" cy="430" r="240" fill="none" stroke="#d8c7a3" stroke-opacity=".2"/>
+<path d="M650 800L930 450L1100 570L1290 300L1600 530V1000H650Z" fill="#556b2f" fill-opacity=".48"/>
+<path d="M820 1000L1100 650L1290 760L1450 620L1600 710V1000Z" fill="#11130f" fill-opacity=".65"/>
+<text x="1200" y="900" fill="#d8c7a3" font-family="Arial,sans-serif" font-size="24" text-anchor="middle" letter-spacing="7">REEMPLAZAR POR FOTOGRAFÍA OFICIAL</text>
+</svg>

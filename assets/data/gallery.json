@@ -1,0 +1,562 @@
+[
+  {
+    "id": "img-001",
+    "title": "Registro visual 01",
+    "description": "",
+    "category": "Agricola",
+    "alt": "Marcador gráfico provisional 01; no es una fotografía documental.",
+    "src": "assets/images/01.jpg",
+    "tags": [
+      "institucional",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 1
+  },
+  {
+    "id": "img-002",
+    "title": "Registro visual 02",
+    "description": "",
+    "category": "Agricola",
+    "alt": "Marcador gráfico provisional 02; no es una fotografía documental.",
+    "src": "assets/images/02.jpg",
+    "tags": [
+      "comunidad",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 2
+  },
+  {
+    "id": "img-003",
+    "title": "Registro visual 03",
+    "description": "",
+    "category": "Actividades",
+    "alt": "Marcador gráfico provisional 03; no es una fotografía documental.",
+    "src": "assets/images/03.jpg",
+    "tags": [
+      "actividades",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 3
+  },
+  {
+    "id": "img-004",
+    "title": "Registro visual 04",
+    "description": "",
+    "category": "Encuentros",
+    "alt": "Marcador gráfico provisional 04; no es una fotografía documental.",
+    "src": "assets/images/04.jpg",
+    "tags": [
+      "encuentros",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 4
+  },
+  {
+    "id": "img-005",
+    "title": "Registro visual 05",
+    "description": "",
+    "category": "Archivo",
+    "alt": "Marcador gráfico provisional 05; no es una fotografía documental.",
+    "src": "assets/images/05.jpg",
+    "tags": [
+      "archivo",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 5
+  },
+  {
+    "id": "img-006",
+    "title": "Registro visual 06",
+    "description": "",
+    "category": "Agricola",
+    "alt": "Marcador gráfico provisional 06; no es una fotografía documental.",
+    "src": "assets/images/06.jpg",
+    "tags": [
+      "institucional",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 6
+  },
+  {
+    "id": "img-007",
+    "title": "Registro visual 07",
+    "description": "",
+    "category": "Comunidad",
+    "alt": "Marcador gráfico provisional 07; no es una fotografía documental.",
+    "src": "assets/images/07.jpg",
+    "tags": [
+      "comunidad",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 7
+  },
+  {
+    "id": "img-008",
+    "title": "Registro visual 08",
+    "description": "",
+    "category": "Actividades",
+    "alt": "Marcador gráfico provisional 08; no es una fotografía documental.",
+    "src": "assets/images/08.jpg",
+    "tags": [
+      "actividades",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 8
+  },
+  {
+    "id": "img-009",
+    "title": "Registro visual 09",
+    "description": "",
+    "category": "Encuentros",
+    "alt": "Marcador gráfico provisional 09; no es una fotografía documental.",
+    "src": "assets/images/09.jpg",
+    "tags": [
+      "encuentros",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 9
+  },
+  {
+    "id": "img-010",
+    "title": "Registro visual 10",
+    "description": "",
+    "category": "Archivo",
+    "alt": "Marcador gráfico provisional 10; no es una fotografía documental.",
+    "src": "assets/images/10.jpg",
+    "tags": [
+      "archivo",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 10
+  },
+  {
+    "id": "img-011",
+    "title": "Registro visual 11",
+    "description": "",
+    "category": "Institucional",
+    "alt": "Marcador gráfico provisional 11; no es una fotografía documental.",
+    "src": "assets/images/11.jpg",
+    "tags": [
+      "institucional",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 11
+  },
+  {
+    "id": "img-012",
+    "title": "Registro visual 12",
+    "description": "",
+    "category": "Comunidad",
+    "alt": "Marcador gráfico provisional 12; no es una fotografía documental.",
+    "src": "assets/images/12.jpg",
+    "tags": [
+      "comunidad",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 12
+  },
+  {
+    "id": "img-013",
+    "title": "Registro visual 13",
+    "description": "",
+    "category": "Actividades",
+    "alt": "Marcador gráfico provisional 13; no es una fotografía documental.",
+    "src": "assets/images/13.jpg",
+    "tags": [
+      "actividades",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 13
+  },
+  {
+    "id": "img-014",
+    "title": "Registro visual 14",
+    "description": "",
+    "category": "Encuentros",
+    "alt": "Marcador gráfico provisional 14; no es una fotografía documental.",
+    "src": "assets/images/14.jpg",
+    "tags": [
+      "encuentros",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 14
+  },
+  {
+    "id": "img-015",
+    "title": "Registro visual 15",
+    "description": "",
+    "category": "Archivo",
+    "alt": "Marcador gráfico provisional 15; no es una fotografía documental.",
+    "src": "assets/images/15.jpg",
+    "tags": [
+      "archivo",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 15
+  },
+  {
+    "id": "img-016",
+    "title": "Registro visual 16",
+    "description": "",
+    "category": "Institucional",
+    "alt": "Marcador gráfico provisional 16; no es una fotografía documental.",
+    "src": "assets/images/16.jpg",
+    "tags": [
+      "institucional",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 16
+  },
+  {
+    "id": "img-017",
+    "title": "Registro visual 17",
+    "description": "",
+    "category": "Comunidad",
+    "alt": "Marcador gráfico provisional 17; no es una fotografía documental.",
+    "src": "assets/images/17.jpg",
+    "tags": [
+      "comunidad",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 17
+  },
+  {
+    "id": "img-018",
+    "title": "Registro visual 18",
+    "description": "",
+    "category": "Actividades",
+    "alt": "Marcador gráfico provisional 18; no es una fotografía documental.",
+    "src": "assets/images/18.jpg",
+    "tags": [
+      "actividades",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 18
+  },
+  {
+    "id": "img-019",
+    "title": "Registro visual 19",
+    "description": "",
+    "category": "Encuentros",
+    "alt": "Marcador gráfico provisional 19; no es una fotografía documental.",
+    "src": "assets/images/19.jpg",
+    "tags": [
+      "encuentros",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 19
+  },
+  {
+    "id": "img-020",
+    "title": "Registro visual 20",
+    "description": "",
+    "category": "Archivo",
+    "alt": "Marcador gráfico provisional 20; no es una fotografía documental.",
+    "src": "assets/images/20.jpg",
+    "tags": [
+      "archivo",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 20
+  },
+  {
+    "id": "img-021",
+    "title": "Registro visual 21",
+    "description": "",
+    "category": "Institucional",
+    "alt": "Marcador gráfico provisional 21; no es una fotografía documental.",
+    "src": "assets/images/21.jpg",
+    "tags": [
+      "institucional",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 21
+  },
+  {
+    "id": "img-022",
+    "title": "Registro visual 22",
+    "description": "",
+    "category": "Comunidad",
+    "alt": "Marcador gráfico provisional 22; no es una fotografía documental.",
+    "src": "assets/images/22.jpg",
+    "tags": [
+      "comunidad",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 22
+  },
+  {
+    "id": "img-023",
+    "title": "Registro visual 23",
+    "description": "",
+    "category": "Actividades",
+    "alt": "Marcador gráfico provisional 23; no es una fotografía documental.",
+    "src": "assets/images/23.jpg",
+    "tags": [
+      "actividades",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 23
+  },
+  {
+    "id": "img-024",
+    "title": "Registro visual 24",
+    "description": "",
+    "category": "Encuentros",
+    "alt": "Marcador gráfico provisional 24; no es una fotografía documental.",
+    "src": "assets/images/24.jpg",
+    "tags": [
+      "encuentros",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 24
+  },
+  {
+    "id": "img-025",
+    "title": "Registro visual 25",
+    "description": "",
+    "category": "Archivo",
+    "alt": "Marcador gráfico provisional 25; no es una fotografía documental.",
+    "src": "assets/images/25.jpg",
+    "tags": [
+      "archivo",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 25
+  },
+  {
+    "id": "img-026",
+    "title": "Registro visual 26",
+    "description": "",
+    "category": "Institucional",
+    "alt": "Marcador gráfico provisional 26; no es una fotografía documental.",
+    "src": "assets/images/26.jpg",
+    "tags": [
+      "institucional",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 26
+  },
+  {
+    "id": "img-027",
+    "title": "Registro visual 27",
+    "description": "",
+    "category": "Comunidad",
+    "alt": "Marcador gráfico provisional 27; no es una fotografía documental.",
+    "src": "assets/images/27.jpg",
+    "tags": [
+      "comunidad",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 27
+  },
+  {
+    "id": "img-028",
+    "title": "Registro visual 28",
+    "description": "",
+    "category": "Actividades",
+    "alt": "Marcador gráfico provisional 28; no es una fotografía documental.",
+    "src": "assets/images/28.jpg",
+    "tags": [
+      "actividades",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 28
+  },
+  {
+    "id": "img-029",
+    "title": "Registro visual 29",
+    "description": "",
+    "category": "Encuentros",
+    "alt": "Marcador gráfico provisional 29; no es una fotografía documental.",
+    "src": "assets/images/29.jpg",
+    "tags": [
+      "encuentros",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 29
+  },
+  {
+    "id": "img-030",
+    "title": "Registro visual 30",
+    "description": "",
+    "category": "Archivo",
+    "alt": "Marcador gráfico provisional 30; no es una fotografía documental.",
+    "src": "assets/images/30.jpg",
+    "tags": [
+      "archivo",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 30
+  },
+  {
+    "id": "img-031",
+    "title": "Registro visual 31",
+    "description": "",
+    "category": "Institucional",
+    "alt": "Marcador gráfico provisional 31; no es una fotografía documental.",
+    "src": "assets/images/31.jpg",
+    "tags": [
+      "institucional",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 31
+  },
+  {
+    "id": "img-032",
+    "title": "Registro visual 32",
+    "description": "",
+    "category": "Comunidad",
+    "alt": "Marcador gráfico provisional 32; no es una fotografía documental.",
+    "src": "assets/images/32.jpg",
+    "tags": [
+      "comunidad",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 32
+  },
+  {
+    "id": "img-033",
+    "title": "Registro visual 33",
+    "description": "",
+    "category": "Actividades",
+    "alt": "Marcador gráfico provisional 33; no es una fotografía documental.",
+    "src": "assets/images/33.jpg",
+    "tags": [
+      "actividades",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 33
+  },
+  {
+    "id": "img-034",
+    "title": "Registro visual 34",
+    "description": "",
+    "category": "Encuentros",
+    "alt": "Marcador gráfico provisional 34; no es una fotografía documental.",
+    "src": "assets/images/34.jpg",
+    "tags": [
+      "encuentros",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 34
+  },
+  {
+    "id": "img-035",
+    "title": "Registro visual 35",
+    "description": "",
+    "category": "Archivo",
+    "alt": "Marcador gráfico provisional 35; no es una fotografía documental.",
+    "src": "assets/images/35.jpg",
+    "tags": [
+      "archivo",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 35
+  },
+  {
+    "id": "img-036",
+    "title": "Registro visual 36",
+    "description": "",
+    "category": "Institucional",
+    "alt": "Marcador gráfico provisional 36; no es una fotografía documental.",
+    "src": "assets/images/36.jpg",
+    "tags": [
+      "institucional",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 36
+  },
+  {
+    "id": "img-037",
+    "title": "Registro visual 37",
+    "description": "",
+    "category": "Comunidad",
+    "alt": "Marcador gráfico provisional 37; no es una fotografía documental.",
+    "src": "assets/images/37.jpg",
+    "tags": [
+      "comunidad",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 37
+  },
+  {
+    "id": "img-038",
+    "title": "Registro visual 38",
+    "description": "",
+    "category": "Actividades",
+    "alt": "Marcador gráfico provisional 38; no es una fotografía documental.",
+    "src": "assets/images/38.jpg",
+    "tags": [
+      "actividades",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 38
+  },
+  {
+    "id": "img-039",
+    "title": "Registro visual 39",
+    "description": "",
+    "category": "Encuentros",
+    "alt": "Marcador gráfico provisional 39; no es una fotografía documental.",
+    "src": "assets/images/39.jpg",
+    "tags": [
+      "encuentros",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 39
+  },
+  {
+    "id": "img-040",
+    "title": "Registro visual 40",
+    "description": "",
+    "category": "Archivo",
+    "alt": "Marcador gráfico provisional 40; no es una fotografía documental.",
+    "src": "assets/images/40.jpg",
+    "tags": [
+      "archivo",
+      "provisional",
+      "asociación de veteranos de la fuerza pública de buenavista córdoba"
+    ],
+    "order": 40
+  }
+]

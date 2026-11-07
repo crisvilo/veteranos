@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#064b2b">
+  <title>Asociación de Veteranos de la Fuerza Pública | Buenavista, Córdoba</title>
+  <meta name="description" content="Sitio institucional de la Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba.">
+  <meta property="og:title" content="Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba">
+  <meta property="og:description" content="Sitio institucional de la Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/variables.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/gallery.css">
+  <script>
+    (function () {
+      try {
+        const saved = localStorage.getItem("fv-theme");
+        const systemDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.dataset.theme = saved || (systemDark ? "dark" : "light");
+      } catch (_) {
+        document.documentElement.dataset.theme = "light";
+      }
+    })();
+  </script>
+  <script type="module" src="assets/js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand header-brand" href="#inicio" aria-label="Asociación de Veteranos de la Fuerza Pública de Buenavista, inicio">
+        <img class="brand-logo" src="assets/images/logo.jpg" alt="Logotipo oficial de la Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba">
+      </a>
+      <button class="icon-button menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Abrir menú">
+        <span class="menu-lines" aria-hidden="true"></span>
+      </button>
+      <nav class="primary-nav" id="primary-nav" aria-label="Navegación principal">
+        <a href="#inicio" class="nav-link is-active">Inicio</a>
+        <a href="#nosotros" class="nav-link">Nosotros</a>
+        <a href="#identidad" class="nav-link">Misión y visión</a>
+        <a href="#valores" class="nav-link">Principios y valores</a>
+        <a href="#galeria" class="nav-link">Galería</a>
+        <a href="#contacto" class="nav-link">Contacto</a>
+      </nav>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Cambiar a tema oscuro" aria-pressed="false">
+        <span class="theme-icon" aria-hidden="true">◐</span><span class="theme-label">Tema</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="contenido">
+    <section class="hero section page-panel is-current" id="inicio" aria-labelledby="hero-title">
+      <div class="hero-backdrop" aria-hidden="true"></div>
+      <div class="container hero-content">
+        <p class="eyebrow"><span class="eyebrow-line"></span> IDENTIDAD · SERVICIO · COMUNIDAD</p>
+        <h1 id="hero-title">ASOCIACIÓN DE<br><span>VETERANOS</span></h1>
+        <p class="hero-lead" id="hero-tagline">Honor en la trayectoria. Compromiso en cada paso.</p>
+        <p class="hero-copy" id="hero-intro">Un espacio para presentar la organización, compartir su propósito y visibilizar sus actividades.</p>
+        <div class="hero-actions">
+          <a class="button button-gold" href="#galeria">Explorar galería <span aria-hidden="true">↗</span></a>
+          <a class="button button-outline" href="#nosotros">Conocer la organización</a>
+        </div>
+        <div class="hero-note"><span class="status-dot"></span> Sin animo de lucro</div>
+      </div>
+      <div class="hero-logo-wrap"><img class="hero-logo" src="assets/images/logo.jpg" alt="Emblema oficial de la Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba"></div>
+      <div class="hero-coordinate" aria-hidden="true">BUENAVISTA / CÓRDOBA</div>
+    </section>
+
+    <section class="intro-strip home-strip" aria-label="Presentación">
+      <div class="container intro-strip-inner">
+        <span class="strip-number"></span>
+        <p>Una identidad construida desde la experiencia, el respeto y el compromiso colectivo.</p>
+        <a href="#identidad" class="text-link">Nuestra identidad <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
+
+    <section class="section section-pad page-panel" id="nosotros" aria-labelledby="about-title">
+      <div class="container two-column">
+        <div class="section-heading">
+          <p class="eyebrow">QUIÉNES SOMOS</p>
+          <h2 id="about-title">Una historia que<br><em>merece ser contada.</em></h2>
+          <div class="heading-rule"></div>
+        </div>
+        <div class="about-copy">
+          <p class="lead" id="about-description">Conoce la Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba, su propósito y su compromiso con la comunidad.</p>
+          <div class="about-grid">
+            <article class="mini-panel">
+              <span class="mini-index"></span>
+              <h3>Trayectoria</h3>
+              <p id="about-history">Historia y antecedentes institucionales pendientes de completar con información oficial.</p>
+            </article>
+            <article class="mini-panel">
+              <span class="mini-index"></span>
+              <h3>Objetivos</h3>
+              <p id="about-objectives">Objetivos generales pendientes de validación por la organización.</p>
+            </article>
+          </div>
+          <p class="small-note"></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section identity-section section-pad page-panel" id="identidad" aria-labelledby="identity-title">
+      <div class="container">
+        <div class="section-heading centered">
+          <p class="eyebrow">NORTE INSTITUCIONAL</p>
+          <h2 id="identity-title">Propósito y dirección</h2>
+          <p class="section-subtitle"></p>
+        </div>
+        <div class="identity-grid">
+          <article class="identity-card">
+            <div class="card-icon" aria-hidden="true">◎</div><span class="card-kicker">01 / PROPÓSITO</span>
+            <h3>Misión</h3><p id="mission-text">Declaración de misión pendiente de incorporar desde la fuente oficial.</p>
+          </article>
+          <article class="identity-card">
+            <div class="card-icon" aria-hidden="true">↗</div><span class="card-kicker">02 / PROYECCIÓN</span>
+            <h3>Visión</h3><p id="vision-text">Declaración de visión pendiente de incorporar desde la fuente oficial.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-pad page-panel" id="valores" aria-labelledby="values-title">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow">CÓDIGO DE CONDUCTA</p>
+          <h2 id="values-title">Principios que orientan.<br><em>Valores que permanecen.</em></h2>
+        </div>
+        <div class="values-grid">
+          <article class="value-card"><span class="value-number">03</span><div class="value-symbol" aria-hidden="true">⌖</div><h3>Principios</h3><div id="principles-text" class="detail-list" aria-live="polite">
+            <article class="detail-item"><h4>Compromiso con la legalidad</h4><p>Orientar todas las actuaciones de la asociación bajo el marco jurídico vigente, especialmente en lo relacionado con la formalización de tierras, la Ley del Veterano y los requisitos de las Entidades Sin Ánimo de Lucro (ESAL).</p></article>
+            <article class="detail-item"><h4>Cooperación e interinstitucionalidad</h4><p>Promover alianzas estratégicas y redes de trabajo con organizaciones campesinas, empresas privadas y entidades públicas para el beneficio mutuo.</p></article>
+            <article class="detail-item"><h4>Desarrollo rural sostenible</h4><p>Adoptar buenas prácticas agrícolas y ganaderas que protejan la biodiversidad, el suelo y las fuentes hídricas, asegurando la productividad a largo plazo.</p></article>
+          </div></article>
+          <article class="value-card value-card-accent"><span class="value-number">04</span><div class="value-symbol" aria-hidden="true">✦</div><h3>Valores</h3><div id="values-text" class="detail-list" aria-live="polite">
+            <article class="detail-item"><h4>Solidaridad rural</h4><p>Priorizar el bienestar colectivo y brindar respaldo a veteranos con discapacidades, adultos mayores, viudas y huérfanos del conflicto.</p></article>
+            <article class="detail-item"><h4>Arraigo y sentido de pertenencia</h4><p>Defender y tecnificar el territorio rural, promoviendo la seguridad alimentaria y el cultivo de la tierra como forma de servicio a la patria en la vida civil.</p></article>
+            <article class="detail-item"><h4>Equidad y humildad</h4><p>Promover el respeto y la igualdad entre todos los asociados, trabajando como pares en el campo.</p></article>
+            <article class="detail-item"><h4>Responsabilidad ambiental</h4><p>Proteger la biodiversidad, las fuentes de agua y los suelos mediante prácticas agrícolas sostenibles que preserven el entorno para las futuras generaciones.</p></article>
+          </div></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="gallery-section section-pad page-panel" id="galeria" aria-labelledby="gallery-title">
+      <div class="container">
+        <div class="gallery-heading">
+          <div class="section-heading">
+            <p class="eyebrow">REGISTRO VISUAL</p>
+            <h2 id="gallery-title">Galería <em>de actividades</em></h2>
+          </div>
+          <p class="gallery-description">Explora el archivo fotográfico autorizados por la  Asociacion.</p>
+        </div>
+        <div class="gallery-tools">
+          <label class="search-field"><span class="sr-only">Buscar fotografías</span><span aria-hidden="true">⌕</span><input id="gallery-search" type="search" placeholder="Buscar por título, descripción o etiqueta…" autocomplete="off"></label>
+          <label class="filter-field"><span class="sr-only">Filtrar por categoría</span><select id="gallery-category"><option value="">Todas las categorías</option></select></label>
+        </div>
+        <div class="gallery-main">
+          <div class="gallery-stage" id="gallery-stage">
+            <img id="active-image" src="assets/images/01.svg" alt="Marcador de fotografía 1" width="1200" height="760">
+            <div class="stage-shade"></div>
+            <div class="stage-top"><span class="stage-label">ARCHIVO VISUAL / ASOCIACIÓN DE VETERANOS</span><span class="stage-counter" id="stage-counter">01 / 40</span></div>
+            <button class="stage-arrow stage-prev" id="gallery-prev" type="button" aria-label="Fotografía anterior">←</button>
+            <button class="stage-arrow stage-next" id="gallery-next" type="button" aria-label="Fotografía siguiente">→</button>
+            <div class="stage-caption"><span class="caption-category" id="active-category">Institucional</span><h3 id="active-title">Registro visual 01</h3><p id="active-description">Marcador provisional para reemplazar por una fotografía real.</p></div>
+            <button class="fullscreen-button" id="open-viewer" type="button"><span aria-hidden="true">⛶</span> Ampliar</button>
+          </div>
+          <div class="gallery-controls">
+            <div class="carousel-actions"><button class="small-control" id="play-toggle" type="button" aria-pressed="false">Ⅱ <span>Pausar carrusel</span></button><span class="control-divider"></span><span class="gallery-result-count" id="gallery-result-count">40 fotografías</span></div>
+            <div class="thumbnail-rail" id="thumbnail-rail" aria-label="Seleccionar fotografía"></div>
+          </div>
+        </div>
+        <p class="gallery-empty" id="gallery-empty" hidden>No se encontraron fotografías con esos criterios. <button type="button" id="reset-gallery">Restablecer filtros</button></p>
+        <p class="gallery-footnote">Las imágenes de ejemplo no representan hechos ni personas reales. Reemplaza los archivos SVG por fotografías propias con autorización de uso y actualiza sus textos alternativos.</p>
+      </div>
+    </section>
+
+    <section class="contact-section section-pad page-panel" id="contacto" aria-labelledby="contact-title">
+      <div class="container contact-layout contact-layout-single">
+        <div class="contact-copy">
+          <p class="eyebrow">INFORMACIÓN INSTITUCIONAL</p>
+          <h2 id="contact-title">Representación<br><em>legal.</em></h2>
+          <p>Datos oficiales de la Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba.</p>
+        </div>
+        <div class="representative-card">
+          <div class="representative-emblem"><img src="assets/images/logo.jpg" alt="Emblema de la asociación"></div>
+          <p class="detail-label">NOMBRE DE LA ORGANIZACIÓN</p>
+          <h3>Asociación de Veteranos de la Fuerza Pública de Buenavista Córdoba</h3>
+          <div class="representative-divider"></div>
+          <p class="detail-label">NIT</p>
+          <p class="representative-value">901885276-1</p>
+          <p class="detail-label">REPRESENTANTE LEGAL</p>
+          <p class="representative-value">César Gregorio Martinez Llorente</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-main">
+      <a class="brand footer-brand" href="#inicio" aria-label="Volver al inicio"><img class="footer-official-logo" src="assets/images/logo.jpg" alt="Logotipo oficial de la Asociación de Veteranos de la Fuerza Pública de Buenavista, Córdoba"></a>
+      <p>Honor, servicio y compromiso con nuestra comunidad.</p>
+      <a href="#inicio" class="back-top">VOLVER ARRIBA ↑</a>
+    </div>
+    <div class="container footer-bottom"><span>© <span id="current-year"></span> Asociación de Veteranos de la Fuerza Pública.</span><span>Asociación de Veteranos de la Fuerza Pública · Buenavista, Córdoba</span></div>
+  </footer>
+
+  <dialog class="image-viewer" id="image-viewer" aria-label="Visor de fotografías">
+    <div class="viewer-toolbar"><span id="viewer-counter">01 / 40</span><button type="button" id="close-viewer" class="viewer-close" aria-label="Cerrar visor">×</button></div>
+    <button type="button" id="viewer-prev" class="viewer-arrow viewer-prev" aria-label="Fotografía anterior">←</button>
+    <figure><img id="viewer-image" src="assets/images/01.svg" alt=""><figcaption><strong id="viewer-title"></strong><span id="viewer-description"></span></figcaption></figure>
+    <button type="button" id="viewer-next" class="viewer-arrow viewer-next" aria-label="Fotografía siguiente">→</button>
+  </dialog>
+</body>
+</html>
